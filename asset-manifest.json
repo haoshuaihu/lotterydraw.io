@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/lotterydraw.io/static/css/main.69d4494f.css",
-    "main.js": "/lotterydraw.io/static/js/main.0115951d.js",
+    "main.js": "/lotterydraw.io/static/js/main.0befd38b.js",
     "static/js/453.9ec41f15.chunk.js": "/lotterydraw.io/static/js/453.9ec41f15.chunk.js",
     "index.html": "/lotterydraw.io/index.html",
     "main.69d4494f.css.map": "/lotterydraw.io/static/css/main.69d4494f.css.map",
-    "main.0115951d.js.map": "/lotterydraw.io/static/js/main.0115951d.js.map",
+    "main.0befd38b.js.map": "/lotterydraw.io/static/js/main.0befd38b.js.map",
     "453.9ec41f15.chunk.js.map": "/lotterydraw.io/static/js/453.9ec41f15.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.69d4494f.css",
-    "static/js/main.0115951d.js"
+    "static/js/main.0befd38b.js"
   ]
 }
